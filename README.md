@@ -24,5 +24,12 @@ On the other hand, ResNet stands out for its innovative use of skip connections,
 
 Both VGG and ResNet offer unique advantages in the context of image segmentation. VGG's deep and homogeneous architecture enables it to capture intricate details, while ResNet's skip connections enhance feature propagation and enable better handling of complex structures. It is important to note that if trained for a longer duration, both architectures have the potential to further improve their performance, as the models can learn more intricate and discriminative representations. By incorporating these CNN architectures into the UNet framework, we leverage their respective strengths to achieve accurate and robust image segmentation results.
 
+1.VGG backbone:
+![vgg](https://github.com/IsrarAhmed919/SemanticSegmentation/assets/62650665/933b5278-bcd0-4532-8057-36a96832d0e4)
+2.Resnet backbone:
+![resnet](https://github.com/IsrarAhmed919/SemanticSegmentation/assets/62650665/0ec879b3-af3b-43b3-97d2-ad3db6cf7f5d)
+
+
+
 ## Authors
 Israr Ahmed <iahmed.msds22seecs@seecs.edu.pk>
